@@ -1,6 +1,6 @@
 # README #
 
-This repository is for SCA cloud school assessment.
+This repository is for SCA cloud school assessment. It displays text on a webpage using dockerfile
 
 ### Link to dockerhub repository ###
 
